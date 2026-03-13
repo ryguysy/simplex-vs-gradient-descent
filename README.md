@@ -25,9 +25,9 @@ This project investigates:
 
 ## Paper
 
-The full paper can be found here:
+The full report can be found here:
 
-**📄 [paper.pdf](paper.pdf)**
+**📄 [report.pdf](report.pdf)**
 
 It includes:
 
