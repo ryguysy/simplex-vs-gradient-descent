@@ -23,11 +23,11 @@ This project investigates:
 
 ---
 
-## Paper
+## Report
 
 The full report can be found here:
 
-**📄 [report.pdf](report.pdf)**
+**📄 [Report.pdf](Report.pdf)**
 
 It includes:
 
